@@ -20,9 +20,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  border:1px solid #4224d9;
+  border:1px solid #7ac5be;
   border-radius: 8px;
-  background-color: #644ED2;
+  background-color: #7ac5be;
   width: 100%;
   height: 200px;
   font-size: 20px;
@@ -41,7 +41,7 @@
 .btn-option{
   background-color: transparent;
   border-radius: 8px;
-  border: 1px solid #18ab29;
+  border: 1px solid #7ac5be;
   width: 50%;
   display: inline-block;
   cursor: pointer;
@@ -50,11 +50,11 @@
   font-size: 17px;
   padding: 16px 31px;
   text-decoration: none;
-  text-shadow: 0px 1px 0px #2f6627;
+  text-shadow: 0px 1px 0px #C2e0de;
 }
 
 .btn-option:hover{
-  background-color: #5cbf2a;
+  background-color: #7ac5be;
 }
 
 .btn-option:active{
@@ -65,7 +65,7 @@
 .quizz_results{
   width: 100%;
   height: 350px;
-  background-color: #1F0539;
+  background-color: #66ada6;
   border-radius: 10px;
   padding: 30px;
   display: flex;

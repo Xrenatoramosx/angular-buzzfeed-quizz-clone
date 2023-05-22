@@ -36,7 +36,9 @@
       "question": "Qual o seu maior foco ?",
       "options":[
         {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 2, "name":"Salvar a cidade", "alias":"B"},
+        {"id": 3, "name":"Dominação Mundial", "alias":"A"},
+        {"id": 4, "name":"Paz e segurança para todos", "alias":"B"}
       ]
     },
     {
@@ -44,9 +46,29 @@
       "question": "Qual o seu apelido de super ser ?",
       "options":[
         {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"},
+        {"id": 3, "name":"O inevitável", "alias":"A"},
+        {"id": 4, "name":"O anjo caido ", "alias":"B"}
       ]
-    }
+    },
+   {
+    "id":6,
+    "question": "Uma briga acontece a poucos metros. Você...",
+    "options":[
+      {"id": 1, "name":"Sai correndo pra não apanhar também", "alias":"A"},
+      {"id": 2, "name":"Tenta separar", "alias":"B"}
+    ]
+  },
+  {
+    "id":7,
+    "question": "Onde você gostaria de morar?",
+    "options":[
+      {"id": 1, "name":"Luganenhum", "alias":"A"},
+      {"id": 2, "name":"Gotham", "alias":"B"},
+      {"id": 3, "name":"Raccoon City", "alias":"A"},
+      {"id": 4, "name":"Wakanda", "alias":"B"}
+    ]
+  }
   ],
   "results":{
     "A": "Você muito provavelmente seria um super vilão!",
